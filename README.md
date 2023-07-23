@@ -1,0 +1,1 @@
+# g-Quine-McCluskey-Method-to-find-SOP
